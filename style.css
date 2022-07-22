@@ -1,0 +1,26 @@
+body{
+    background-color: aliceblue;
+    background-image: url(numero.jpg);
+    background-size: 30cm;
+    color: rgb(253, 242, 242);
+    font: normal 15pt Arial;
+}
+header {
+    color:rgba(255, 255, 255, 0.966);
+    text-align: center; 
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.163);
+    text-decoration-line: underline;
+}
+
+section {
+    background-color:  #036183d7;
+    border-radius: 15px;
+    padding: 20px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.163);
+} 
+footer{
+    color:rgba(255, 255, 255, 0.971);
+    text-align: center;
+}
